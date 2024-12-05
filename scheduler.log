@@ -1,0 +1,5 @@
+At time 4 process 1 Arrived arr 3 total 6 remain 6 wait 1
+At time 4 process 1 Started arr 3 total 6 remain 6 wait 1
+At time 7 process 1 Stopped arr 3 total 6 remain 3 wait 1
+At time 8 process 2 Arrived arr 4 total 6 remain 6 wait 4
+At time 8 process 1 Resumed arr 3 total 6 remain 3 wait 2
